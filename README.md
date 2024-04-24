@@ -1,6 +1,5 @@
  # 5  . CREATE SOCKET FOR HTTP FOR WEBPAGE UPLOAD AND DOWNLOAD
- # Name: AFSAR JUMAIL S
- # Reg.no: 212222240004
+ 
 ## Aim :
 To write a PYTHON program for socket for HTTP for web page upload and download
 ## Algorithm :
